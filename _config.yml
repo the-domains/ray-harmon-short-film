@@ -1,7 +1,7 @@
 name: Ray Harmon Short Film
 favicon: null
-layout_spectrum: 0.7664488079026341
-typography_spectrum: 0.42192493565380573
+layout_spectrum: 0.24985
+typography_spectrum: 0.75626
 title: Ray Harmon Short Film
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6764799214433879
-  lightness: 0.43669273518025875
-  saturation: 0.8317113998346031
-  rhythmicContrast: 0.5961279468610883
+    - '#010504'
+    - '#f0edcc'
+    - '#b0b271'
+    - '#7f8547'
+    - '#725b4d'
+  brandStrength: 1
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
