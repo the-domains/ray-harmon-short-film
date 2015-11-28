@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ray Harmon Short Film]]></title>
+        <description><![CDATA[Ray Harmon Short Film]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 Nov 2015 22:21:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ray Harmon seeks to celebrate his golden years by bringing joy and hope to the lives of the downtrodden people he comes in contact with. Ray meets a homeless woman who has a problem she cant fix, and some children in a neighborhood who have forgotten how to play and helps them all. Harmon’s spirit and generosity touch the old, the young, and the disenfranchised and uplifts them. ]]></title>
+            <description><![CDATA[<article><h1>Ray Harmon seeks to celebrate his golden years by bringing joy and hope to the lives of the downtrodden people he comes in contact with. Ray meets a homeless woman who has a problem she cant fix, and some children in a neighborhood who have forgotten how to play and helps them all. Harmon’s spirit and generosity touch the old, the young, and the disenfranchised and uplifts them. </h1><p>Synopsis for the short film Ray Harmon</p></article>]]></description>
+            <link>undefinedfilm-synopsis/index.html</link>
+            <guid isPermaLink="false">3319ce83-15ba-4ce0-935d-a4a645fcde19</guid>
+            <pubDate>Sat, 28 Nov 2015 22:20:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
